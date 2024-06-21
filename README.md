@@ -1,7 +1,7 @@
 ### E ai, eu sou o Rogerio Rodrigues.
 
 
-- 🔭 Hoje estou trabalhando com Java BackEnd, focado em desenvolvimento e arquitetura de softwares 
+- 🔭 Java BackEnd, focado em desenvolvimento e arquitetura de softwares 
 - 🌱 Estudando, Microservices com Spring, Patterns, Arquiteturas, Aws-cloud 
 - 😄 Pronouns: ele/dele
 
