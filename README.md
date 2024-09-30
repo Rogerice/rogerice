@@ -2,7 +2,7 @@
 
 
 - 🔭 Java BackEnd, focado em desenvolvimento e arquitetura de softwares 
-- 🌱 Estudando, Microservices com Spring, Patterns, Arquiteturas, Aws-cloud 
+- 🌱Microservices com Spring, Patterns, Arquiteturas, Aws-cloud 
 - 😄 Pronouns: ele/dele
 
 <div align="absolute">
