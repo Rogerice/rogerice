@@ -73,15 +73,11 @@ Por se tratarem de soluções proprietárias e confidenciais, os desenhos técni
 - Prefiro arquitetura simples, objetiva e preparada para crescer quando necessário.
 - Trato segurança, consistência e rastreabilidade como parte do desenho da solução.
 
-## Projetos públicos
+## Projetos
 
-| Projeto | Descrição |
-| --- | --- |
-| [techchallenge](https://github.com/Rogerice/techchallenge) | Projeto Java do Tech Challenge, com evolução por fases e foco em backend. |
-| [techchallenge.restauranteapp](https://github.com/Rogerice/techchallenge.restauranteapp) | Aplicação backend em Java para domínio de restaurante. |
-| [spring-cloud-openfeign](https://github.com/Rogerice/spring-cloud-openfeign) | Exemplo de comunicação entre serviços usando Spring Cloud OpenFeign. |
-| [spring-aws-sqs-exe](https://github.com/Rogerice/spring-aws-sqs-exe) | Integração com AWS SQS utilizando Spring. |
-| [adega-bot-webhook-java](https://github.com/Rogerice/adega-bot-webhook-java) | Webhook em Java para automações e integrações. |
+Estou reorganizando meus projetos públicos para refletir melhor minha experiência atual com backend corporativo, arquitetura, integrações e soluções em ambientes financeiros.
+
+Os repositórios mais antigos permanecem como parte da minha trajetória de aprendizado, mas os próximos projetos publicados aqui terão foco em soluções mais maduras, bem documentadas e alinhadas com problemas reais de engenharia.
 
 ## Em evolução constante
 
