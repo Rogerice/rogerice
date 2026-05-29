@@ -74,9 +74,6 @@ Desenvolvedor backend especializado em construir APIs, serviços e integrações
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rogerice&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerice&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rogerice&hide_border=true&theme=tokyonight" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rogerice&theme=tokyo-night&hide_border=true&area=true" width="100%" />
