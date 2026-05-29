@@ -1,54 +1,24 @@
-# Site — Rogério Rodrigues
+<div align="center">
 
-Site profissional de apresentação (portfólio), construído com **React + Vite + TailwindCSS** e animações com **Framer Motion**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,30&height=210&section=header&text=Rog%C3%A9rio%20Rodrigues&fontColor=ffffff&fontSize=46&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Software%20Architecture&descSize=18&descAlignY=64" width="100%" />
 
-A estratégia do site: **primeiro vender o profissional** (autoridade, trajetória e especialidades) e **depois mostrar os projetos** como prova concreta da experiência.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Backend+Engineer+%7C+13%2B+anos+de+experiencia;Java+%2B+Spring+Boot+%2B+Microservices;APIs+e+integracoes+no+setor+financeiro;Do+problema+de+negocio+a+solucao+tecnica)](https://git.io/typing-svg)
 
-## Como rodar localmente
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogeriorodriguesti/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rogerice/)
+![Profile Views](https://komarev.com/ghpvc/?username=Rogerice&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
 
-> O `npm` via PowerShell pode estar bloqueado por política de execução. Use `npm.cmd` no Windows.
+</div>
 
-```bash
-npm.cmd install
-npm.cmd run dev
-```
+---
 
-O site abre em `http://localhost:5173`.
-
-## Build de produção
+## > whoami
 
 ```bash
-npm.cmd run build
-npm.cmd run preview
-```
-
-Os arquivos finais ficam na pasta `dist/`.
-
-## Estrutura
-
-```
-src/
-  data/content.js      <- TODO o conteúdo editável (textos, marcas, projetos, contatos)
-  components/          <- Seções do site (Hero, About, Trajectory, ...)
-  App.jsx              <- Ordem das seções
-  index.css            <- Tema, cores e fontes
-public/favicon.svg     <- Ícone do site
-```
-
-## O que personalizar (em `src/data/content.js`)
-
-- **`contact`** — troque os placeholders pelos seus dados reais:
-  - `email`, `whatsapp` (formato `5511999999999`), `linkedin`, `github`.
-- **`profile`**, **`about`**, **`trajectory`**, **`projects`**, **`personal`** — ajuste os textos.
-- **Foto**: o componente `src/components/About.jsx` tem um espaço reservado para sua foto.
-
-## Publicar na Netlify
-
-1. Suba o projeto para um repositório no GitHub.
-2. No painel da Netlify: **Add new site → Import an existing project** e selecione o repositório.
-3. A Netlify lê o `netlify.toml` automaticamente:
-   - Build command: `npm run build`
-   - Publish directory: `dist`
-4. Deploy. Pronto — cada `git push` atualiza o site.
-
-Alternativa rápida sem Git: `npm.cmd run build` e arraste a pasta `dist/` em https://app.netlify.com/drop
+const rogerio = {
+  role: "Backend Engineer & Software Architect",
+  experience: "13+ anos",
+  atual: "Tecnologia para uma das maiores instituicoes financeiras do mundo",
+  foco: ["APIs", "Integracoes criticas", "Microservices", "Solucoes escalaveis"],
+  base: "Sao Paulo, Brasil",
+};
