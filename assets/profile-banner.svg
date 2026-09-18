@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Rogério Rodrigues | Desenvolvedor de Software</title>
+<desc id="desc">Backend, Java, Spring e arquitetura de software. Do problema ao software.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080B12"/><stop offset="1" stop-color="#111826"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#2F5EFF"/><stop offset="1" stop-color="#8FB0FF"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#5B83FF" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+<rect x="48" y="52" width="32" height="4" rx="2" fill="#5B83FF"/>
+<text x="94" y="60" fill="#8FB0FF" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">DESENVOLVEDOR DE SOFTWARE</text>
+<text x="48" y="139" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Rogério Rodrigues</text>
+<text x="50" y="185" fill="#C3CCDD" font-family="Arial,sans-serif" font-size="22">Backend · Java · Spring · Arquitetura de Software</text>
+<text x="50" y="245" fill="#8FB0FF" font-family="monospace" font-size="18">Do problema ao software.</text>
+<path d="M50 277H740" stroke="#26324A"/>
+<text x="50" y="312" fill="#9AA8C1" font-family="monospace" font-size="16">rogeriorodrigues.dev.br</text>
+<g fill="none" stroke="url(#line)" stroke-width="2">
+<path d="M845 113H926L974 161H1122" opacity=".7"/>
+<path d="M845 245H921L974 192H1122" opacity=".7"/>
+<rect x="926" y="121" width="110" height="110" rx="22" fill="#111C39" transform="rotate(45 981 176)"/>
+</g>
+<text x="981" y="188" text-anchor="middle" fill="#FFFFFF" font-family="monospace" font-size="36" font-weight="700">RR</text>
+<g fill="#080B12" stroke="#5B83FF" stroke-width="3"><circle cx="845" cy="113" r="6"/><circle cx="845" cy="245" r="6"/><circle cx="1122" cy="161" r="6"/><circle cx="1122" cy="192" r="6"/></g>
+</svg>
